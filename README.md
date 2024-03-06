@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sreehari
-- I'm a fullstack developer from India
+- 🎯 I'm a fullstack developer from India
 - 
 
 <!---
