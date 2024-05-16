@@ -6,28 +6,29 @@
 
 ###
 
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin-right: 12px;">
+<div style="display: flex; align-items: center;">
+  <div style="text-align: center; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <br>JavaScript
+    <div>JavaScript</div>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 12px;">
+  <div style="text-align: center; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-    <br>HTML5
+    <div>HTML5</div>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 12px;">
+  <div style="text-align: center; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-    <br>CSS3
+    <div>CSS3</div>
   </div>
-  <div style="display: inline-block; text-align: center; margin-right: 12px;">
+  <div style="text-align: center; margin-right: 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-    <br>MongoDB
+    <div>MongoDB</div>
   </div>
-  <div style="display: inline-block; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS logo" />
-    <br>Node.js
+    <div>Node.js</div>
   </div>
 </div>
+
 
 
 ###
