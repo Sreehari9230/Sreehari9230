@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋! My name is Sreehari and I'm a FULL STACK Developer </h2>
+<h2 align="left">Hello there👋! My name is Sreehari and I'm a FULL STACK Developer </h2>
 
 ###
 
